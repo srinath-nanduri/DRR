@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.finos.cdm</groupId>
+  <artifactId>cdm-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.0.master-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20250409081227</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 09 14:30:01 IST 2025
+cdm-java-0.0.0.master-SNAPSHOT-javadoc.jar>=
+cdm-java-0.0.0.master-SNAPSHOT-sources.jar>=
+cdm-java-0.0.0.master-SNAPSHOT.pom>=
+cdm-java-0.0.0.master-SNAPSHOT.jar>=

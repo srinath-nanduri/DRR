@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 09 14:30:34 IST 2025
+examples-0.0.0.master-SNAPSHOT.pom>=
+examples-0.0.0.master-SNAPSHOT-sources.jar>=
+examples-0.0.0.master-SNAPSHOT.jar>=
+examples-0.0.0.master-SNAPSHOT-javadoc.jar>=
+examples-0.0.0.master-SNAPSHOT.zip>=

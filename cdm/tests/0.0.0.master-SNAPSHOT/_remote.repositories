@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 09 14:30:16 IST 2025
+tests-0.0.0.master-SNAPSHOT.jar>=
+tests-0.0.0.master-SNAPSHOT-plugin-properties.jar>=
+tests-0.0.0.master-SNAPSHOT-tests.jar>=
+tests-0.0.0.master-SNAPSHOT.pom>=
